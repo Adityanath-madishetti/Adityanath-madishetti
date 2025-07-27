@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Aditya!
 
-<!--
-**Adityanath-madishetti/Adityanath-madishetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergrad at IIT, exploring systems, backend, and OS internals.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Operating system projects in C and Go backend tools.
+- 🌱 Learning: Go, Docker, and advanced Git usage.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-id) | [Email](mailto:you@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+![My Skills](https://skillicons.dev/icons?i=go,cpp,python,linux,docker,git,mongodb,postman)
+
+---
+
+## 🔥 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=madishettyaditya&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madishettyaditya&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Projects
+- 🎯 [OS-like Virtual Memory Manager](https://github.com/madishettyaditya/gemos-vm)
+- ✅ [CLI Todo App in Go](https://github.com/madishettyaditya/go-todo-cli)
+
+---
+
+## 📈 Contribution Graph
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madishettyaditya&theme=tokyonight)
