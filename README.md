@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aditya!
+#  Hello, I'm Aditya!
 
 I'm a Computer Science undergrad at IIT Hyderabad, exploring systems, backend, and OS internals.
 
